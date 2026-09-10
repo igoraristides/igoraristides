@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2196F3,100:6A11CB&height=200&section=header&text=Igor%20Santos&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Senior%20Full-Stack%20%26%20Mobile%20Developer&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2196F3,100:6A11CB&height=200&section=header&text=Igor%20Santos&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Senior%20Full-Stack%20and%20Mobile%20Developer&descAlignY=55&descSize=20" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=C%23+%2F+.NET+Backend+Developer;React+Native+%2F+Expo+Mobile+Developer;CEO+%26+Founder+%40+NexTi+Labs;Shipping+on+iOS%2C+Android+%26+the+Web" alt="Typing SVG" />
 
